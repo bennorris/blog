@@ -1,8 +1,2 @@
 name: Ben Norris
 markdown: kramdown
-
-defaults:
-  -
-    type: "posts"
-    layout: "post"
-  -
