@@ -6,8 +6,8 @@ permalink: /blog/:year/:month/:day/:title
 defaults:
   -
     scope:
-      path: "./css/main.css"
+
       type: "posts"
     values:
-      layout: "default"
+      layout: "post"
   -
