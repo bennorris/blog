@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+font-family: 'Courier New', Courier;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -16,6 +16,11 @@ a {
     text-decoration: none;
     color: #999;
 }
+
+#font-fix {
+  font-family: 'Courier New', Courier;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -32,6 +37,8 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+
+
 
 ul.posts {
     margin: 20px auto 40px;

@@ -1,4 +1,4 @@
 name: Ben Norris
 markdown: kramdown
 url: https://github.com/bennorris/blog
-baseurl: "./"
+# baseurl: "./"
