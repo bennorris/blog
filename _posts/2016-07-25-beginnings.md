@@ -5,8 +5,6 @@ category: programming
 tags: intro
 ---
 
-{% include JB/setup %}
-
 __what:__ barely & widely is a place to document lessons learned, mistakes made, and assorted thoughts while learning to program.
 
 __who:__ ben norris, a student in the flatiron school's learn verified web development program.
