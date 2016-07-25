@@ -1,13 +1,8 @@
 name: Ben Norris
 markdown: kramdown
 
-permalink: /blog/:year/:month/:day/:title
-
 defaults:
   -
-    scope:
-
-      type: "posts"
-    values:
-      layout: "post"
+    type: "posts"
+    layout: "post"
   -
