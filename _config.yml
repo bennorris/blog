@@ -2,4 +2,12 @@ name: Ben Norris
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
-url: http://bennorris.github.io/blog
+
+defaults:
+  -
+    scope:
+      path: "./css/main.css"
+      type: "posts"
+    values:
+      layout: "default"
+  -
