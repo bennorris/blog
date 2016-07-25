@@ -1,8 +1,6 @@
 ---
 layout: post
 title: beginnings
-category: programming
-tags: intro
 ---
 
 __what:__ barely & widely is a place to document lessons learned, mistakes made, and assorted thoughts while learning to program.
