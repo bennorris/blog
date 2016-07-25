@@ -16,11 +16,11 @@
 	    		</ul>
 			</nav>
       <header id="post-head">
-      <h1>{{ page.title }}</h1>
-      <p class="meta">{{ page.date | date_to_string }}</p>
+      <h1 id="font-fix">{{ page.title }}</h1>
+      <p id="font-fix" class="meta">{{ page.date | date_to_string }}</p>
       </header>
 
-      <div class="post">
+      <div class="post" id="font-fix">
         {{ content }}
       </div>
 			<footer>
