@@ -17,6 +17,10 @@ a {
     color: #999;
 }
 
+nav a {
+  color: red;
+}
+
 #font-fix {
   font-family: 'Courier New', Courier;
 }
