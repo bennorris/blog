@@ -3,12 +3,13 @@ layout: post
 title: beginnings
 ---
 
-"Facts are simple and facts are straight
-Facts are lazy and facts are late
-Facts all come with points of view
-Facts don't do what I want them to."
+"Facts are simple and facts are straight \\
+Facts are lazy and facts are late \\
+Facts all come with points of view \\
+Facts don't do what I want them to." \\
 
-      -Talking Heads, "Crosseyed and Painless"
+   Talking Heads, "Crosseyed and Painless"
+
 
 ## on elegance
 
@@ -26,7 +27,7 @@ The analogy with "Crosseyed and Painless" isn't perfect (but who needs an excuse
 
 -where: https://rubygems.org/gems/domestic_goods / https://github.com/bennorris/domestic_goods-cli-gem
 
--why: i started the project hoping to scrape a directory of companies that manufacture ethically, but wasn't able to find the perfect source. so the idea slowly transitioned to an interactive list of american-made companies. 
+-why: i started the project hoping to scrape a directory of companies that manufacture ethically, but wasn't able to find the perfect source. so the idea slowly transitioned to an interactive list of american-made companies.
 
 
 ## lessons learned
