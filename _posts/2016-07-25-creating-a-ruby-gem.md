@@ -23,7 +23,7 @@ Facts don't do what I want them to."
 **why** >> it's hard to find ethically-made goods, and it shouldn't be. i started the project hoping to scrape a directory of companies that manufacture ethically, but wasn't able to find the perfect source. so the idea slowly transitioned to an interactive list of american-made companies separated by category.
 
 ======
-**a takeaway**
+**the takeaway**
 ======
 
 one of the most enjoyable parts of learning to write and read code is the flexibility involved with making something work. there is a certain rigidity, of course --- there are boundaries that'll break your program every single time when crossed --- but within those boundaries is a ton of freedom to explore different approaches.      
@@ -36,9 +36,9 @@ the analogy with "crosseyed and painless" isn't perfect (but i'll take any excus
 **lessons learned**
 ======
 
-1. it's easy to get stuck on something trivial and spend hours wading through sites that lead nowhere particularly helpful. a great skill to develop moving forward: knowing when to take a different direction & move on.
+-it's easy to get stuck on something trivial and spend hours wading through sites that lead nowhere particularly helpful. a great skill to develop moving forward: knowing when to take a different direction & move on.
 
-2. the transition from excitement to embarrassment happens painfully fast when you see your gem getting downloads, then realize it doesn't work properly. test thoroughly.
+-the transition from excitement to embarrassment happens painfully fast when you see your gem getting downloads, then realize it doesn't work properly. test thoroughly.
 
 ======
 **simple, but helpful for other first-timers**
