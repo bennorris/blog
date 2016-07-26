@@ -1,6 +1,6 @@
 ---
 layout: post
-title: beginnings
+title: creating a ruby gem
 ---
 
 "Facts are simple and facts are straight \\
@@ -10,7 +10,7 @@ Facts don't do what I want them to."
 
    Talking Heads, "Crosseyed and Painless"
 
-## the project
+## *the project*{:.underline}
 
 **requirements** >> build a CLI, packaged as a gem, that scrapes data from an external source.
 
