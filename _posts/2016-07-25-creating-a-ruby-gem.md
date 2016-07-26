@@ -10,7 +10,7 @@ Facts don't do what I want them to."
 
    Talking Heads, "Crosseyed and Painless"
 
-##the project
+## the project
 ===============
 
 **requirements** >> build a CLI, packaged as a gem, that scrapes data from an external source.
