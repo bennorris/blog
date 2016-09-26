@@ -70,3 +70,9 @@ ul.posts li {
 #post-head {
   border-bottom: 1px solid #d5d5d5;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
