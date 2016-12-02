@@ -3,9 +3,12 @@ layout: post
 title: creating a ruby gem
 ---
 
-"Stravinsky says the composer should practice his trade exactly as a shoemaker does. Mozart and Haydn accepted commissions--wrote to order. In the nineteenth century, the artist loftily waited for inspiration. Once you elevate yourself to the rank of a cultural institution, you're in for a lot of trouble." \\
+"Facts are simple and facts are straight \\
+Facts are lazy and facts are late \\
+Facts all come with points of view \\
+Facts don't do what I want them to."
 
-  -Saul Bellow, from the Paris Review's 'Art of Fiction'
+   Talking Heads, "Crosseyed and Painless"
 
 ======
 **the project**
