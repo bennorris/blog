@@ -21,7 +21,7 @@ So that’s all to say: it’s a lot of fun to see jQuery smoothen out the edges
 
 OK, now onto the maddening stuff.
 
-For instance: an .on(‘click’) event that triggers twice every time, despite every effort to make sure the event is only called once. In this case, a handful of Stack Overflow posts pointed me in the right direction: I needed to remove the event handler with an ‘off.on(‘click’) / unbind.on(‘click’).
+For instance: an .on(‘click’) event that triggers twice every time, despite every effort to make sure the event is only called once. In this case, a handful of Stack Overflow posts pointed me in the right direction: I needed to remove the event handler with  .off().
 
 And another one: having an event continually happen, despite every effort to prevent it. The answer: exploring subtle differences between using event.stopPropogation, event.stopImmediatePropagation(), and event.preventDefault().
 
