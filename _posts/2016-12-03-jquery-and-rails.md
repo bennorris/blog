@@ -25,7 +25,7 @@ For instance: an .on(‘click’) event that triggers twice every time, despite 
 
 And another one: having an event continually happen, despite every effort to prevent it. The answer: exploring subtle differences between using event.stopPropogation, event.stopImmediatePropagation(), and event.preventDefault().
 
-Learning anything new takes time--if it didn't, it probably wouldn't be worth learning--and I'm excited to continue with jQuery.  
+But learning anything new takes time--if it didn't, it probably wouldn't be worth learning--and I'm excited to continue with jQuery.  
 
 ======
 **preview**
