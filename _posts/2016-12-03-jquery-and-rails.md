@@ -30,4 +30,5 @@ Learning anything new takes time--if it didn't, it probably wouldn't be worth le
 ======
 **preview**
 ======
-<img src="https://bennorris.github.io/blog/assets/storyline-jquery.gif" style="height: 100%; width: 100%; object-fit: contain" alt="storyline"/>
+
+<img src="https://bennorris.github.io/blog/assets/storyline-jquery.gif" alt="storyline"/>
