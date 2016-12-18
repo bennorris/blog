@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jquery with rails
+title: angular js
 ---
 
 ======
