@@ -15,11 +15,18 @@ title: building a single page app
 **the takeaway**
 ======
 
+
+
 ======
 **preview**
 ======
 
 <img src="https://bennorris.github.io/blog/assets/gubb1.gif"/>
+
+======
+**screenshots**
+======
+
 <img src="https://bennorris.github.io/blog/assets/gubbinal-musician.png" style="height: 100%; width: 100%; object-fit: contain"/>
 <img src="https://bennorris.github.io/blog/assets/gubbinal-film.png" style="height: 100%; width: 100%; object-fit: contain"/>
 <img src="https://bennorris.github.io/blog/assets/gubbinal-list1.png" style="height: 100%; width: 100%; object-fit: contain"/>
