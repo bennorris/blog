@@ -15,6 +15,10 @@ title: building a single page app
 **the takeaway**
 ======
 
+Before digging into Angular (and jQuery), it seemed like front-end design meant making something that was nice to look at. Now, I understand that it's more about making something that's nice to interact with.
+
+It was incredible to see Angular bring HTML to life. <a href="http://jsfiddle.net/anandmanisankar/L6nofag6/">This fiddle</a> - five brief lines of code that create a dynamic div - perfectly illustrates how powerful and efficient Angular is. 
+
 
 
 ======
