@@ -1,6 +1,6 @@
 ---
 layout: post
-title: building a sngle page app
+title: building a single page app
 ---
 
 ======
@@ -15,6 +15,11 @@ title: building a sngle page app
 **the takeaway**
 ======
 
+======
+**preview**
+======
+
+<img src="https://bennorris.github.io/blog/assets/gubb1.gif"/>
 <img src="https://bennorris.github.io/blog/assets/gubbinal-musician.png" style="height: 100%; width: 100%; object-fit: contain"/>
 <img src="https://bennorris.github.io/blog/assets/gubbinal-film.png" style="height: 100%; width: 100%; object-fit: contain"/>
 <img src="https://bennorris.github.io/blog/assets/gubbinal-list1.png" style="height: 100%; width: 100%; object-fit: contain"/>
