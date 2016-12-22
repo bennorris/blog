@@ -15,7 +15,7 @@ title: building a sngle page app
 **the takeaway**
 ======
 
-<img src="https://bennorris.github.io/blog/assets/gubbinal-musician.png" alt="storyline"/>
-<img src="https://bennorris.github.io/blog/assets/gubbinal-film.png" alt="storyline"/>
-<img src="https://bennorris.github.io/blog/assets/gubbinal-list1.png" alt="storyline"/>
-<img src="https://bennorris.github.io/blog/assets/gubbinal-musiclist.png" alt="storyline"/>
+<img src="https://bennorris.github.io/blog/assets/gubbinal-musician.png" style="height: 100%; width: 100%; object-fit: contain"/>
+<img src="https://bennorris.github.io/blog/assets/gubbinal-film.png" style="height: 100%; width: 100%; object-fit: contain"/>
+<img src="https://bennorris.github.io/blog/assets/gubbinal-list1.png" style="height: 100%; width: 100%; object-fit: contain"/>
+<img src="https://bennorris.github.io/blog/assets/gubbinal-musiclist.png" style="height: 100%; width: 100%; object-fit: contain"/>
