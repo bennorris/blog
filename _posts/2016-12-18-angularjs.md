@@ -56,7 +56,7 @@ And in the view, the function is passed in as an expression:
 <li style="{{ isLoggedIn() }}"><a ng-click="logMeOut()" href="">log out</a></li>
 ```
 
-I plan to deploy Gubbinal with Heroku in the near future. But in the meantime, here are a few screenshots that give a general idea of how the app looks/functions. 
+I plan to deploy Gubbinal with Heroku soon. But in the meantime, here are a few screenshots that give a general idea of how the app looks/functions. 
 
 
 ======
