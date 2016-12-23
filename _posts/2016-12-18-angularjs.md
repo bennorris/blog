@@ -34,10 +34,11 @@ The last thing I'll mention is creating a dynamic navbar. If users are logged in
 ```html
  <% if current_user %>
     <li>sign out<li>
-<% else %>    
+ <% else %>    
     <li>sign in</li>
+ <% end %>    
 ```
-There are probably plenty of different ways to accomplish the same thing in Angular, by my solution was to set the display properties based on a condition within the controller. You can create a function that checks the database (or in this case, $localStorage) to see if the user is logged in:
+There are probably plenty of different ways to accomplish the same thing in Angular, but my solution was to set the display properties based on a condition within the controller. You can create a function that checks the database (or in this case, $localStorage) to see if the user is logged in:
 
 ```JavaScript
 $scope.isLoggedIn = function() {
@@ -54,6 +55,8 @@ And in the view, the function is passed in as an expression:
 ```html
 <li style="{{ isLoggedIn() }}"><a ng-click="logMeOut()" href="">log out</a></li>
 ```
+
+I plan to deploy Gubbinal with Heroku in the near future. But in the meantime, here are a few screenshots that give a general idea of how the app looks/functions. 
 
 
 ======
