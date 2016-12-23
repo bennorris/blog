@@ -27,9 +27,9 @@ As I look back on my experience using the Learn platform, I'm extremely glad tha
 
 There were moments of frustration - like a few labs with a bunch of tedious tests that had little to do with the lessons they were supposed to reinforce - but these moments were the exception, and every learning experience comes with frustration.
 
-Overall, I wouldn't hesitate to recommend Learn. And if you want to hear more about my experience, feel free to shoot me an email at bennorris07@gmail.com.
+Overall, I wouldn't hesitate to recommend Learn. And if you want to hear something more specific about the program, feel free to shoot me an email at bennorris07@gmail.com.
 
 If you're on the fence about learning to code, I can't say it any better than Tom Waits:
 
-Fishing for a good time
+Fishing for a good time \\
 Starts with throwing in your line
